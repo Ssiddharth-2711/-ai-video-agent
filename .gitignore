@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Generated audio
+downloads/
+*.wav
+*.webm
+*.mp3
+*.m4a
+
+# Generated vector database
+vector_db/
+
+# Generated transcript
+transcript.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
